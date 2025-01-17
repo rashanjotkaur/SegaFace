@@ -1,1 +1,1 @@
-# DeepFaceFromColab
+# SegaFace
